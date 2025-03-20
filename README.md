@@ -32,7 +32,7 @@ I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundat
 ![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white).
 <!--
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -47,10 +47,14 @@ I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundat
 
 ## 💼 Experience
 - **[]** - [Position] (Year - Present)
-- **[Previous Company]** - [Position] (Year - Year)
+- **[Previous Company]** - [Position] (Year - Year) 
+
+-->
 
 ## 🎓 Education
 - **[Sage University]** - [Bachelor of Technology] (2021 - 2025)
+- **[St.Pius Sn. Sec. Schhol]** - [12th] (2020 - 2021)
+- **[M.G.M. Hr. Sec. School]** - [10th] (2018 - 2019)
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
