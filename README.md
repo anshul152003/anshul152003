@@ -5,10 +5,11 @@
 ## 💫 About Me
 I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundation in C++, Java, and Modern Web Development. Eager to leverage coding expertise, problem-solving skills and creativity to contribute to dynamic projects and collaborate with a talented team. Passionate about technology and committed to continuous learning, with a focus on applying innovative solutions to real world challenges.
 
+<!---
 ## 🔭 Current Work
-<-- - Working on [Current Project Name] - a [brief description] -->
+- Working on [Current Project Name] - a [brief description]
 - Exploring [Technology/Framework you're learning]
-- Contributing to open-source projects in the [specific domain] community
+- Contributing to open-source projects in the [specific domain] community--->
 
 ## 🛠️ Skills
 ### Languages
