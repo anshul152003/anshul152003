@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Anshul Gangrade
 
 ## 💫 About Me
 I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundation in C++, Java, and Modern Web Development. Eager to leverage coding expertise, problem-solving skills and creativity to contribute to dynamic projects and collaborate with a talented team. Passionate about technology and committed to continuous learning, with a focus on applying innovative solutions to real world challenges.
