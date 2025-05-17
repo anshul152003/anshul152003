@@ -73,6 +73,16 @@ I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundat
  -->
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anshul152003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anshul152003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul152003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anshul152003&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ⭐️ From [Anshul Gangrade](https://github.com/anshul152003)
 <!--
 **anshul152003/anshul152003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
