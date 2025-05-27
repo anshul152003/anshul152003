@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 ## 💫 About Me
-I'm Aspiring and detail-oriented Computer Science Graduate with a strong foundation in C++, Java, and Modern Web Development. Eager to leverage coding expertise, problem-solving skills and creativity to contribute to dynamic projects and collaborate with a talented team. Passionate about technology and committed to continuous learning, with a focus on applying innovative solutions to real world challenges.
+I am a Computer Science student at Sage University, equipped with a solid foundation in JavaScript, C++, and Core Java. My passion for understanding how technology works drives me to actively explore diverse areas of programming and development.
+
+I am improving my knowledge of data structures and algorithms while learning the MERN stack to build dynamic web applications. I stay updated on the latest tools and frameworks and seek ways to grow in this fast-paced field.
+
+Outside of tech, I enjoy exploring new places and cultures, as traveling inspires my creativity. I also appreciate Hindi literature, especially poetry, which keeps me connected to language and tradition. These passions bring balance to my life.
 
 <!---
 ## 🔭 Current Work
