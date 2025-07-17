@@ -12,8 +12,21 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 - Exploring [Technology/Framework you're learning]
 - Contributing to open-source projects in the [specific domain] community--->
 
-## 🛠️ Skills
+## 🌱 I'm Currently Learning
 
+Currently, I’m enhancing my understanding of **Data Structures and Algorithms** while diving deep into the **MERN stack** to build dynamic and responsive web applications. I'm also expanding my expertise in **Cloud Computing**, especially with **AWS**, to better tackle modern software challenges.
+
+I stay updated with the latest **tools**, **frameworks**, and **development trends**, and I’m always seeking opportunities to grow in this fast-paced tech ecosystem.
+
+### Focus Areas:
+- 🔹 Advanced React Patterns (Hooks, Context, Custom Hooks)
+- 🔹 Microservices Architecture
+- 🔹 System Design Basics
+- 🔹 AWS Cloud Fundamentals
+- 🔹 Problem-Solving with DSA (LeetCode, GFG)
+
+
+## 🛠️ Skills
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,11 +58,6 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 🌱 I'm currently learning
-- Advanced React patterns
-- Microservices architecture
-- Data Structures and Algorithms
 
 ## 💼 Experience
 
