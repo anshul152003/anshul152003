@@ -64,11 +64,17 @@ Outside of tech, I love exploring new places and cultures, and I have a deep int
 - **St. Pius Senior Secondary School** – Higher Secondary (2020 – 2021)  
 - **M.G.M. Higher Secondary School** – Secondary (2018 – 2019)  
 
-## 🔗 Projects  
+## 🚀 Projects
 
-- **Disease Prediction App** – ML-powered Django backend with a React frontend that predicts diseases based on user symptoms.  
-- **Task Manager (Taskify)** – MERN stack CRUD app with user authentication and responsive UI.  
-- **Portfolio Website** – Personal portfolio built with HTML, CSS, JavaScript, and deployed on GitHub Pages.
+### 🔊 [TalkTranscribe](https://github.com/yourusername/talktranscribe) | React, Web Speech API, TailwindCSS  
+Developed a voice transcription app using React and Web Speech API for real-time speech-to-text conversion, styled with TailwindCSS.
+
+### 📹 [VisionTalk](https://github.com/yourusername/visiontalk) | WebRTC, Next.js, TailwindCSS, Framer Motion  
+Built a responsive group video calling app with WebRTC, featuring animated UI, smart indicators, and scalable architecture using Next.js.
+
+### 🧑‍🏫 [Open Board System](https://github.com/yourusername/open-board-system) | JavaScript, Node.js, Express.js, Socket.io  
+Implemented a collaborative real-time whiteboard using Socket.io and Node.js to enable synchronized drawing across users.
+
 
 ## 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=anshul152003&theme=dark&show_icons=true&hide_border=false&count_private=true)  
