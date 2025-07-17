@@ -33,19 +33,13 @@ Outside of tech, I love exploring new places and cultures, and I have a deep int
 ## 💼 Experience  
 
 - **Dr. Reddy’s Foundation** – *Trainee Developer, Indore* (Apr 2025 – Present)  
-  • Participating in an intensive MERN full-stack training program to build scalable, production-ready apps.  
-  • Building dynamic single-page apps using React, Hooks, and Context API.  
-  • Working on MongoDB schema design and CRUD operations.
+  • Building full-stack MERN applications in a production-oriented training program with focus on React, Node.js, and MongoDB.
 
 - **AICTE** – *Data Analytics Intern, Remote* (Jun 2023 – Jul 2023)  
-  • Gained proficiency in AWS services and foundational cloud concepts.  
-  • Learned cloud architecture and cost-effective, scalable system design.  
-  • Strengthened real-world understanding of data analytics in the cloud.
+  • Developed understanding of AWS services and cloud-based data analytics through hands-on project simulations.
 
 - **Oasis Infobyte** – *Web Development Intern, Remote* (May 2023 – Jun 2023)  
-  • Created interactive UIs with modern JavaScript.  
-  • Applied responsive design for mobile-first web apps.  
-  • Built and deployed personal projects using HTML, CSS, and JS.
+  • Created responsive, interactive websites using HTML, CSS, and JavaScript while applying mobile-first design principles.
 
 ## 🎓 Education  
 
