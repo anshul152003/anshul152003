@@ -12,13 +12,7 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 - Exploring [Technology/Framework you're learning]
 - Contributing to open-source projects in the [specific domain] community--->
 
-## 🌱 I'm Currently Learning
-
-Currently, I’m enhancing my understanding of **Data Structures and Algorithms** while diving deep into the **MERN stack** to build dynamic and responsive web applications. I'm also expanding my expertise in **Cloud Computing**, especially with **AWS**, to better tackle modern software challenges.
-
-I stay updated with the latest **tools**, **frameworks**, and **development trends**, and I’m always seeking opportunities to grow in this fast-paced tech ecosystem.
-
-### Focus Areas:
+## Focus Areas:
 🔹 MERN Stack
 🔹 AWS Cloud Fundamentals
 🔹 Problem-Solving with DSA (LeetCode, GFG)
