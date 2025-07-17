@@ -1,12 +1,11 @@
 ## Hi there 👋
 
 ## 💫 About Me
-I am a Computer Science graduate with a strong foundation in JavaScript, C++, and Core Java. Driven by a deep curiosity about how technology works, I actively explore various domains of programming and software development.
+I am a Computer Science graduate with a strong foundation in Java, C++ and JavaScript. Driven by a deep curiosity about how technology works, I actively explore various domains of programming and software development.
 
-Currently, I’m improving my knowledge of data structures and algorithms while learning the MERN stack to build dynamic web applications. I stay updated on the latest tools and frameworks and seek ways to grow in this fast-paced field.
+Currently, I’m enhancing my understanding of data structures and algorithms while diving into the MERN stack to build dynamic web applications. Additionally, I am expanding my knowledge of cloud computing, particularly with AWS, to better tackle modern software challenges. I stay updated on the latest tools and frameworks and continuously seek ways to grow in this fast-paced field.
 
-Outside of tech, I enjoy exploring new places and cultures, as traveling inspires my creativity. I also appreciate Hindi literature, especially poetry, which keeps me connected to language and tradition. These passions bring balance to my life.
-
+Outside of tech, I enjoy exploring new places and cultures, as traveling inspires my creativity. I also have a passion for Hindi literature, especially poetry, which keeps me connected to language and tradition. These interests bring balance and inspiration to my life.
 <!---
 ## 🔭 Current Work
 - Working on [Current Project Name] - a [brief description]
