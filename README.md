@@ -8,9 +8,8 @@ I’m currently deepening my understanding of Data Structures and Algorithms whi
 Outside of tech, I love exploring new places and cultures, and I have a deep interest in Hindi literature, especially poetry, which keeps me creatively inspired and connected to tradition.
 
 ## 🌱 I'm Currently Learning  
-- Advanced React patterns  
-- Microservices architecture  
-- Data Structures and Algorithms  
+- MERN Stack 
+- Data Structures and Algorithms with Java
 - AWS Cloud Fundamentals  
 
 ## 🛠️ Skills  
