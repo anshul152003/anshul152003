@@ -19,11 +19,9 @@ Currently, I’m enhancing my understanding of **Data Structures and Algorithms*
 I stay updated with the latest **tools**, **frameworks**, and **development trends**, and I’m always seeking opportunities to grow in this fast-paced tech ecosystem.
 
 ### Focus Areas:
-- 🔹 Advanced React Patterns (Hooks, Context, Custom Hooks)
-- 🔹 Microservices Architecture
-- 🔹 System Design Basics
-- 🔹 AWS Cloud Fundamentals
-- 🔹 Problem-Solving with DSA (LeetCode, GFG)
+🔹 MERN Stack
+🔹 AWS Cloud Fundamentals
+🔹 Problem-Solving with DSA (LeetCode, GFG)
 
 
 ## 🛠️ Skills
