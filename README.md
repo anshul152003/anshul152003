@@ -13,6 +13,7 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 - Contributing to open-source projects in the [specific domain] community--->
 
 ## 🛠️ Skills
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -20,20 +21,24 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Technologies
-![VS-Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white).
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)-->
+### Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -47,10 +52,23 @@ Outside of tech, I enjoy exploring new places and cultures, as traveling inspire
 - Data Structures and Algorithms
 
 ## 💼 Experience
-- **[]** - [Position] (Year - Present)
-- **[Previous Company]** - [Position] (Year - Year) 
 
--->
+- **Dr. Reddy’s Foundation** – *Trainee Developer, Indore* (April 2025 – Present)  
+  • Participating in an intensive full-stack MERN training program to build scalable, production-grade applications.  
+  • Building dynamic, single-page applications with React and managing state using hooks and context API.  
+  • Working with NoSQL databases (MongoDB) for schema design, data modeling, and CRUD operations.  
+
+- **AICTE** – *Data Analytics Intern, Remote* (June 2023 – July 2023)  
+  • Gained proficiency in AWS services and enhanced understanding of cloud computing fundamentals.  
+  • Studied cloud architecture best practices to design and optimize scalable, reliable, cost-effective solutions.  
+  • Developed a strong foundation in cloud technologies and their application in real-world data scenarios.  
+
+- **Oasis Infobyte** – *Web Development Intern, Remote* (May 2023 – June 2023)  
+  • Developed interactive user interfaces using modern JavaScript, enhancing user experience and engagement.  
+  • Implemented responsive design principles, ensuring websites function well on a variety of devices and screen sizes.  
+  • Built and deployed personal projects using HTML, CSS, and JavaScript to demonstrate practical web development skills.  
+
+
 
 ## 🎓 Education
 - **[Sage University]** - [Bachelor of Technology] (2021 - 2025)
